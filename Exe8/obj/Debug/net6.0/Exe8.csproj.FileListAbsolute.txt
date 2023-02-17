@@ -1,0 +1,15 @@
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/Exe8
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/Exe8.deps.json
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/Exe8.runtimeconfig.json
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/Exe8.dll
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/ref/Exe8.dll
+/home/gws38/Área de Trabalho/Teste/Exe8/bin/Debug/net6.0/Exe8.pdb
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.csproj.AssemblyReference.cache
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.GeneratedMSBuildEditorConfig.editorconfig
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.AssemblyInfoInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.AssemblyInfo.cs
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.csproj.CoreCompileInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.dll
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/ref/Exe8.dll
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.pdb
+/home/gws38/Área de Trabalho/Teste/Exe8/obj/Debug/net6.0/Exe8.genruntimeconfig.cache
