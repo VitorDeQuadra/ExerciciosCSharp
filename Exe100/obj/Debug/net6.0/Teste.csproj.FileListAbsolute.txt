@@ -1,0 +1,15 @@
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.csproj.AssemblyReference.cache
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.AssemblyInfoInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.AssemblyInfo.cs
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.csproj.CoreCompileInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/Teste
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/Teste.deps.json
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/Teste.runtimeconfig.json
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/Teste.dll
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/ref/Teste.dll
+/home/gws38/Área de Trabalho/Teste/Exe100/bin/Debug/net6.0/Teste.pdb
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.dll
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/ref/Teste.dll
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.pdb
+/home/gws38/Área de Trabalho/Teste/Exe100/obj/Debug/net6.0/Teste.genruntimeconfig.cache

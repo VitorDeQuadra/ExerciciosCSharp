@@ -1,0 +1,15 @@
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/Exe112
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/Exe112.deps.json
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/Exe112.runtimeconfig.json
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/Exe112.dll
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/ref/Exe112.dll
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/bin/Debug/net6.0/Exe112.pdb
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.csproj.AssemblyReference.cache
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.GeneratedMSBuildEditorConfig.editorconfig
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.AssemblyInfoInputs.cache
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.AssemblyInfo.cs
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.csproj.CoreCompileInputs.cache
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.dll
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/ref/Exe112.dll
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.pdb
+/home/gws38/Área de Trabalho/ExerciciosCSharp/Exe112/obj/Debug/net6.0/Exe112.genruntimeconfig.cache
