@@ -1,0 +1,15 @@
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.csproj.AssemblyReference.cache
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.GeneratedMSBuildEditorConfig.editorconfig
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.AssemblyInfoInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.AssemblyInfo.cs
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.csproj.CoreCompileInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/Exe5
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/Exe5.deps.json
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/Exe5.runtimeconfig.json
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/Exe5.dll
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/ref/Exe5.dll
+/home/gws38/Área de Trabalho/Teste/Exe5/bin/Debug/net6.0/Exe5.pdb
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.dll
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/ref/Exe5.dll
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.pdb
+/home/gws38/Área de Trabalho/Teste/Exe5/obj/Debug/net6.0/Exe5.genruntimeconfig.cache

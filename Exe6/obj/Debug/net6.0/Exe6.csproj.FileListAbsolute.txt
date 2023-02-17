@@ -1,0 +1,15 @@
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.csproj.AssemblyReference.cache
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.GeneratedMSBuildEditorConfig.editorconfig
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.AssemblyInfoInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.AssemblyInfo.cs
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.csproj.CoreCompileInputs.cache
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/Exe6
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/Exe6.deps.json
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/Exe6.runtimeconfig.json
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/Exe6.dll
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/ref/Exe6.dll
+/home/gws38/Área de Trabalho/Teste/Exe6/bin/Debug/net6.0/Exe6.pdb
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.dll
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/ref/Exe6.dll
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.pdb
+/home/gws38/Área de Trabalho/Teste/Exe6/obj/Debug/net6.0/Exe6.genruntimeconfig.cache
